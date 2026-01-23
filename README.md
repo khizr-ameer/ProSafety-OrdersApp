@@ -7,10 +7,10 @@
 ## 🚀 Project Repositories
 
 🔗 **Frontend (React):**  
-[https://github.com/khizr-ameer/prosafety-frontend](https://github.com/khizr-ameer/prosafety-frontend)
+[ProSafety Orders App Frontend](https://github.com/khizr-ameer/PROSAFTEY-Orders-App-Frontend)
 
 🔗 **Backend (Node.js + Express):**  
-[https://github.com/khizr-ameer/prosafety-backend](https://github.com/khizr-ameer/prosafety-backend)
+[ProSafety Orders App Backend](https://github.com/khizr-ameer/prosafety-backend)
 
 ---
 
