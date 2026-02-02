@@ -66,10 +66,12 @@
 <table>
   <tr>
     <td><img src="screenshots/owner-dashboard.png" alt="Owner Dashboard" /></td>
+    <td><img src="screenshots/owner-dashboard2.png" alt="Owner Dashboard" /></td>
     <td><img src="screenshots/owner-clients.png" alt="Client Management" /></td>
   </tr>
   <tr>
-    <td><img src="screenshots/owner-orders.png" alt="Order Management" /></td>
+    <td><img src="screenshots/owner-Sampleorders.png" alt="Order Management" /></td>
+    <td><img src="screenshots/owner-Purchaseorders.png" alt="Order Management" /></td>
     <td><img src="screenshots/owner-staff.png" alt="Staff Management" /></td>
   </tr>
 </table>
@@ -78,7 +80,15 @@
 <table>
   <tr>
     <td><img src="screenshots/staff-dashboard.png" alt="Staff Dashboard" /></td>
-    <td><img src="screenshots/staff-orders.png" alt="Staff Orders View" /></td>
+    <td><img src="screenshots/staff-dashboard2.png" alt="Staff Dashboard" /></td>
+    <td><img src="screenshots/staff-client.png" alt="Staff clients View" /></td>
+  </tr>
+</table>
+
+### Profile Page
+<table>
+  <tr>
+    <td><img src="screenshots/profile.png" alt="Profile Page" /></td>
   </tr>
 </table>
 
