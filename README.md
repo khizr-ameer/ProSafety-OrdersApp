@@ -52,14 +52,25 @@ ProSafety is a production-ready order management platform for factories and manu
 
 ## 🎯 Key Features
 
-### 📁 File Batch System
-Sample orders use a batch-based file system. Each batch contains:
-- **Tech Pack** — unlimited files
-- **Pattern Files** — unlimited files
-- **Graphic Files** — unlimited files
-- **Note** — batch description
+### 📁 File Management
 
-Owner can add new batches anytime, edit or delete individual files within a batch, and view a complete history of all uploaded files. Staff and clients can view and download only.
+**Sample Orders — Batch System**
+Sample orders use a batch-based file system where every batch contains:
+- **Tech Pack** — up to 20 files per batch
+- **Pattern Files** — up to 20 files per batch
+- **Graphic Files** — up to 20 files per batch
+- **Batch Note** — description for each batch
+
+Owner can add unlimited new batches over time, replace or delete individual files within any batch, and all old batches are preserved. Staff and clients can view and download files but cannot upload or delete.
+
+**Purchase Orders — Invoice + Product Images**
+Each purchase order supports:
+- **Invoice** — 1 file (PDF, Word, image)
+- **Product Images** — up to 20 images per order (one per product, with thumbnail preview)
+
+Both invoice and product images use drag & drop upload with file size and name display. Images show a thumbnail preview before saving.
+
+**All uploads** go to Cloudinary — files are stored permanently and accessible via direct URL with View and Download buttons throughout the app.
 
 ### ⚡ Quick Status Updates
 Every order detail page has a status dropdown at the top that auto-saves on change — no need to enter edit mode. Works for both owner and staff.
